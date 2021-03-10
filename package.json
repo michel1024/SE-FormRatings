@@ -1,0 +1,19 @@
+{
+  "name": "formqualification",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "dev": "parcel ./src/*.ts --no-hmr",
+    "build": "parcel build ./src/*.ts"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@pnp/sp": "^2.0.5"
+  },
+  "devDependencies": {
+    "@types/kendo-ui": "^2020.2.0",
+    "typescript": "^3.9.3"
+  }
+}

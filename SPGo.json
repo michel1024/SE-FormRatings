@@ -1,0 +1,12 @@
+{
+    "sourceDirectory": "src",
+    "sharePointSiteUrl": "https://millicom.sharepoint.com/sites/SharedServiceCenter",
+    "workspaceRoot": "c:\\Proyectos\\FormQualification",
+    "publishWorkspaceOptions": {
+        "destinationFolder": "/",
+        "globPattern": "c:\\Proyectos\\FormQualification\\src\\**\\*.*",
+        "localRoot": "c:\\Proyectos\\FormQualification\\src"
+    },
+    "publishingScope": "SaveOnly",
+    "authenticationType": "Digest"
+}
